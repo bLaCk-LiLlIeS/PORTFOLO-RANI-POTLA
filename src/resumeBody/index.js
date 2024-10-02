@@ -39,7 +39,7 @@ function resumeBody() {
                     <tr>
                       <td>
                         <h2>Hello</h2>
-                        <h4>A Bit About Me</h4>
+                        // <h4>A Bit About Me</h4>
                         <p>I am excited to present the web version of my portfolio, which showcases my skills in web development and design. Currently, the site is fully functional and highlights my projects, skills, and professional experience. I'm actively working on making the website fully responsive to ensure an optimal viewing experience across all devices, from desktops to mobile phones. This ongoing process reflects my commitment to delivering high-quality, user-friendly web experiences and demonstrates my dedication to continuous improvement and adaptability in the ever-evolving field of web development</p>
                       </td>
                     </tr>
